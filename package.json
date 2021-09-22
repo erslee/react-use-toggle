@@ -1,0 +1,25 @@
+{
+  "name": "@erslee/use-toggle",
+  "version": "1.0.0",
+  "description": "simple react use toggle hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/erslee/react-use-toggle.git"
+  },
+  "keywords": [
+    "react",
+    "use",
+    "toggle",
+    "hook"
+  ],
+  "author": "erslee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erslee/react-use-toggle/issues"
+  },
+  "homepage": "https://github.com/erslee/react-use-toggle#readme"
+}
